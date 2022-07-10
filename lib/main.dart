@@ -100,6 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
         Container(
         padding: const EdgeInsets.only(top: 167, left: 87),
         height: 200, width: 201,
+          //added the image through image asset
           child: Image.asset("assets/images/Rectangle 7.png",
                     height: 100, width: 100,
                     alignment: Alignment.center,
